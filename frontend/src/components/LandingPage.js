@@ -70,7 +70,7 @@ const LandingPage = () => {
               },
             }}
           >
-            Go to Dashboard
+            Go to 
           </Button>
         </Box>
 
