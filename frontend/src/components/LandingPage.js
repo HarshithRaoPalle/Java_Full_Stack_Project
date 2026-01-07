@@ -83,7 +83,7 @@ const LandingPage = () => {
                   Manage Employees
                 </Typography>
                 <Typography variant="body1" sx={{ marginBottom: '1rem' }}>
-                  Easily manage your employee records, track details, and maintain an up-to-date roster.
+                  Easily manage your harrrr records, track details, and maintain an up-to-date roster.
                 </Typography>
                 <Button
                   component={Link}
